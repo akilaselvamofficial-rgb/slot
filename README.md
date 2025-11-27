@@ -121,7 +121,7 @@ timetable.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-27 092841.png>)
+![alt text](<Screenshot (20).png>)
 
 
 ## RESULT
